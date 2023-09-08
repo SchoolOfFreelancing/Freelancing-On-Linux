@@ -134,8 +134,3 @@ Getting a 5-star feedback rating using any one marketplace and 100% training com
 
 ## Copyright and License 
 [School Of Freelancing](https://www.schooloffreelancing.com/) 
-
-
-#linux #freelancing #freelancer
-#freelance #training #ubuntu
-#git #upwork #fiverr
