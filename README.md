@@ -3,17 +3,16 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Back-Office/tree/prod.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Back-Office/tree/prod)
 
 ## Freelancing On Linux🐧
-## Training Pipeline
+## Guaranteed Minimum Income (GMI)
 
-On-demand Linux freelance hands-on training from scratch 🐧
+We're on a mission to empower on-demand linux hands-on training to develop giant linux freelancer from home. 
+We'll mentor you to get highest paying linux freelance jobs for a steady income 🐧
 
 Are you looking for success on the most prominent freelance marketplaces? Join this training! 
-
 We'll give you guaranteed minimum income (GMI) based on two conditions:
-
 1) You're committed to attending all training sessions consistently without being absent!
-
 2) You'll not drop out from training for any personal issue or any technical glitches.
+
 
 [Training Highlights]
 
@@ -125,7 +124,7 @@ Target Marketplace: Fiverr | Upwork | Guru.com | Freelancer.com | PPH
 [Session 89](https://docs.google.com/document/d/1Odd0vGlzsbvofGBQAuPaWqYHAQ93_uBx1jtWGfgeTbI/edit?usp=sharing) |
 [Session 90](https://docs.google.com/document/d/1-s46iGGrjwTVECCoF-6sgV8sobj_Ql1Aj5_h2VziSl0/edit?usp=sharing) |
 
-
+We recommend trainee to focus on learning rather than earning till trainee completed session 85. Earning request from any trainee will be fulfill at session 86. Session-1 to 6 related with account setup for linux freelancing. Session-7 to 85 are ubuntu linux based hands-on training 🚀
 
 ## Copyright and License 
 [School Of Freelancing](https://www.schooloffreelancing.com/) 
