@@ -133,4 +133,4 @@ We recommend trainee to focus on learning rather than earning till trainee compl
 Getting a 5-star feedback rating using any one marketplace and 100% training complete at [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) will marked this training completed by trainee. Mentor will help trainee for complete first job not all others jobs during this training!
 
 ## Copyright and License 
-#[School Of Freelancing](https://www.schooloffreelancing.com/) 
+[School Of Freelancing](https://www.schooloffreelancing.com/) 
