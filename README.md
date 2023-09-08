@@ -34,6 +34,8 @@ We'll give you guaranteed minimum income (GMI) based on two conditions:
 
 📢 Track Training Task: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
 
+Before join this training please check all training sessions are align and necessary for level up your skills and you are happy to enroll this training from home 🏠
+
 ## Training Pipeline
 [Session 1](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
 [Session 2](https://docs.google.com/document/d/13iPvZZvilKKCK0To08sWtHG2O1IZgIOpVZP-erq8UR0/edit?usp=sharing) |
