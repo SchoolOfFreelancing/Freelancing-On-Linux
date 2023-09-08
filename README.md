@@ -8,28 +8,20 @@
 We're on a mission to empower on-demand linux hands-on training to develop giant linux freelancer from home. 
 We'll mentor you to get highest paying linux freelance jobs for a steady income 🐧
 
-Are you looking for success on the most prominent freelance marketplaces? Join this training! 
+If you are looking for success on the most prominent freelance marketplaces? Join this training! 
 We'll give you guaranteed minimum income (GMI) based on two conditions:
 1) You're committed to attending all training sessions consistently without being absent!
 2) You'll not drop out from training for any personal issue or any technical glitches.
 
 
 📢 Training Highlights
-
 📢 Focus: Linux System Administration
-
 📢 Output: successful Participant can earn by doing freelancing from home
-
 📢 Training Duration: 180 hours over six months
-
 📢 Training Time: 10:00 PM (22:00) - 12:00 AM (24:00) GMT+6 [Business Days]
-
 📢 Participation Fee: $300
-
 📢 Mentor: Verified Freelancer M01606319624 @ freelancers.gov.bd
-
 📢 Training Modules: Advanced modules tailored for start Linux freelancing
-
 📢 Target Marketplace: Fiverr | Upwork | Guru.com | Freelancer.com | PPH
 
 ## Training Pipeline
