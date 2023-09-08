@@ -32,6 +32,8 @@ We'll give you guaranteed minimum income (GMI) based on two conditions:
 
 📢 Target Marketplace: Fiverr | Upwork | Guru.com | Freelancer.com | PPH
 
+📢 Track Training Task: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
+
 ## Training Pipeline
 [Session 1](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
 [Session 2](https://docs.google.com/document/d/13iPvZZvilKKCK0To08sWtHG2O1IZgIOpVZP-erq8UR0/edit?usp=sharing) |
@@ -125,6 +127,8 @@ We'll give you guaranteed minimum income (GMI) based on two conditions:
 [Session 90](https://docs.google.com/document/d/1-s46iGGrjwTVECCoF-6sgV8sobj_Ql1Aj5_h2VziSl0/edit?usp=sharing) |
 
 We recommend trainee to focus on learning rather than earning till trainee completed session 85. Earning request from any trainee will be fulfill at session 86. Session-1 to 6 related with account setup for linux freelancing. Session-7 to 85 are ubuntu linux based hands-on training 🚀
+
+Getting a 5-star feedback rating using any one marketplace and 100% training complete at Trello will marked this training completed by trainee. Mentor will help trainee for complete first job not all others jobs during this training.
 
 ## Copyright and License 
 [School Of Freelancing](https://www.schooloffreelancing.com/) 
