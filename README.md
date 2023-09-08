@@ -14,7 +14,7 @@ We'll give you guaranteed minimum income (GMI) based on two conditions:
 2) You'll not drop out from training for any personal issue or any technical glitches.
 
 
-📢 Training Highlights
+[Beauty Of This Training] 
 
 📢 Focus: Linux System Administration
 
