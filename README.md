@@ -1,7 +1,13 @@
-# Freelancing On Linux
+![Gitter](https://badges.gitter.im/School-Of-Freelancing/Lobby.svg)
+![Jekyll site CI](https://github.com/SchoolOfFreelancing/BackOffice/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Back-Office/tree/prod.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Back-Office/tree/prod)
+
+## Freelancing On Linux🐧
+## Training Pipeline
+
 On-demand Linux freelance hands-on training from scratch 🐧
 
-Are you looking for success on the most prominent freelance marketplaces of 2023? Join with us! 
+Are you looking for success on the most prominent freelance marketplaces? Join this training! 
 
 We'll give you guaranteed minimum income (GMI) based on two conditions:
 
@@ -26,11 +32,6 @@ Mentor: Verified Freelancer M01606319624 @ freelancers.gov.bd
 Training Modules: Advanced modules tailored for start Linux freelancing
 
 Target Marketplace: Fiverr | Upwork | Guru.com | Freelancer.com | PPH
-
-Visit training pipeline at schooloffreelancing.com 
-
-Contact WhatsApp https://wa.link/nll00i
-
 
 ## The Session
 [Session 1](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
