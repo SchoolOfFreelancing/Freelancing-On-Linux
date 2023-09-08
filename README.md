@@ -14,7 +14,7 @@ We'll give you guaranteed minimum income (GMI) based on two conditions:
 2) You'll not drop out from training for any personal issue or any technical glitches.
 
 
-### Beauty Of This Training
+## Beauty Of This Training
 
 📢 Focus: Linux System Administration
 
@@ -35,19 +35,19 @@ We'll give you guaranteed minimum income (GMI) based on two conditions:
 📢 Track Training Task: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
 
 ## Training Prerequisite
-🏋️ NEED TO HAVE THREE TO FIVE YEARS COMPUTER USING EXPERIENCE.
+🏋️ Need To Have Three To Five Years Computer Using Experience.
 
-🚴 NEED TO HAVE WILLINGNESS, PATIENCE AND CONCENTRATIONS FOR PARTICIPATE THIS TRAINING.
+🚴 Need To Have Willingness, Patience And Concentrations For Participate This Training.
 
-🖥 NEED TO HAVE YOUR OWN LAPTOP/DESKTOP PC WITH 200GB SSD AND 8GB RAM (16GB/500GB RECOMMENDED).
+🖥 Need To Have Your Own Laptop/Desktop PC With 200gb Ssd And 8gb Ram (16gb/500gb Recommended).
 
-🕸 NEED TO HAVE 24 HOURS HIGH SPEED OPTICAL FIBER WIRED DEDICATED PERSONAL INTERNET ACCESS & ELECTRIC.
+🕸 Need To Have 24 Hours High Speed Optical Fiber Wired Dedicated Personal Internet Access & Electric.
 
-🆔 NEED TO HAVE GOVERNMENT ISSUED PHOTO ID (PASSPORT, NID OR DRIVING LICENSE).
+🆔 Need To Have Government Issued Photo Id (Passport, Nid Or Driving License).
 
-📱 NEED TO HAVE PORTABLE DEVICES FOR INSTANT CLIENT COMMUNICATIONS.
+📱 Need To Have Portable Devices For Instant Client Communications.
 
-👓 NEED TO HAVE THE CAPABILITY TO READ AND UNDERSTAND ENGLISH INCLUDING GOOD TYPING SKILLS.
+👓 Need To Have The Capability To Read And Understand English Including Good Typing Skills.
 
 Before join this training please check all training sessions are align and necessary for level up your skills and you are happy to enroll this training from home 🏠
 
