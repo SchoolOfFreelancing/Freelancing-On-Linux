@@ -34,6 +34,21 @@ We'll give you guaranteed minimum income (GMI) based on two conditions:
 
 📢 Track Training Task: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
 
+## Training Prerequisite
+🏋️ NEED TO HAVE THREE TO FIVE YEARS COMPUTER USING EXPERIENCE.
+
+🚴 NEED TO HAVE WILLINGNESS, PATIENCE AND CONCENTRATIONS FOR PARTICIPATE THIS TRAINING.
+
+🖥 NEED TO HAVE YOUR OWN LAPTOP/DESKTOP PC WITH 200GB SSD AND 8GB RAM (16GB/500GB RECOMMENDED).
+
+🕸 NEED TO HAVE 24 HOURS HIGH SPEED OPTICAL FIBER WIRED DEDICATED PERSONAL INTERNET ACCESS & ELECTRIC.
+
+🆔 NEED TO HAVE GOVERNMENT ISSUED PHOTO ID (PASSPORT, NID OR DRIVING LICENSE).
+
+📱 NEED TO HAVE PORTABLE DEVICES FOR INSTANT CLIENT COMMUNICATIONS.
+
+👓 NEED TO HAVE THE CAPABILITY TO READ AND UNDERSTAND ENGLISH INCLUDING GOOD TYPING SKILLS.
+
 Before join this training please check all training sessions are align and necessary for level up your skills and you are happy to enroll this training from home 🏠
 
 ## Training Pipeline
