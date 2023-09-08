@@ -37,15 +37,15 @@ We'll give you guaranteed minimum income (GMI) based on two conditions:
 Before join this training please check all training sessions are align and necessary for level up your skills and you are happy to enroll this training from home 🏠
 
 ## Training Pipeline
-| [Session 1](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
-[Session 2](https://docs.google.com/document/d/13iPvZZvilKKCK0To08sWtHG2O1IZgIOpVZP-erq8UR0/edit?usp=sharing) |
-[Session 3](https://docs.google.com/document/d/1Kk92VyZVxz9zrBzhluFVAceUDpKaYLnVV40WmMZvh7M/edit?usp=sharing) | 
-[Session 4](https://docs.google.com/document/d/1PVCZK948WGCmmNzrNNn_xdFUgvMRF-ZP2JBksvbrPRA/edit?usp=sharing) |
-[Session 5](https://docs.google.com/document/d/1Jrb2prwEBlkotss_Xv09hI83W_Z9XP0tIrAoLYNmKnw/edit?usp=sharing) |
-[Session 6](https://docs.google.com/document/d/1kUpBhSco_fw-lS-yKOLJNwU4DH5UZBfSPo4prfX3bQE/edit?usp=sharing) |
-[Session 7](https://docs.google.com/document/d/1O7OMhgAMd88gTBgWKj4m6Hn6HdhyBkoPB-6upS7G_Iw/edit?usp=sharing) |
-[Session 8](https://docs.google.com/document/d/1pfzpxxqv8_bfmn5YZ7evcLxmjR2_9WQzUsaxrYImg-Y/edit?usp=sharing) |
-[Session 9](https://docs.google.com/document/d/1a7YUcV_b3kxSz7_egMOh6e2VcM9cE0X4q8Rw7CRwNsQ/edit?usp=sharing) |
+[Session 01](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
+[Session 02](https://docs.google.com/document/d/13iPvZZvilKKCK0To08sWtHG2O1IZgIOpVZP-erq8UR0/edit?usp=sharing) |
+[Session 03](https://docs.google.com/document/d/1Kk92VyZVxz9zrBzhluFVAceUDpKaYLnVV40WmMZvh7M/edit?usp=sharing) | 
+[Session 04](https://docs.google.com/document/d/1PVCZK948WGCmmNzrNNn_xdFUgvMRF-ZP2JBksvbrPRA/edit?usp=sharing) |
+[Session 05](https://docs.google.com/document/d/1Jrb2prwEBlkotss_Xv09hI83W_Z9XP0tIrAoLYNmKnw/edit?usp=sharing) |
+[Session 06](https://docs.google.com/document/d/1kUpBhSco_fw-lS-yKOLJNwU4DH5UZBfSPo4prfX3bQE/edit?usp=sharing) |
+[Session 07](https://docs.google.com/document/d/1O7OMhgAMd88gTBgWKj4m6Hn6HdhyBkoPB-6upS7G_Iw/edit?usp=sharing) |
+[Session 08](https://docs.google.com/document/d/1pfzpxxqv8_bfmn5YZ7evcLxmjR2_9WQzUsaxrYImg-Y/edit?usp=sharing) |
+[Session 09](https://docs.google.com/document/d/1a7YUcV_b3kxSz7_egMOh6e2VcM9cE0X4q8Rw7CRwNsQ/edit?usp=sharing) |
 [Session 10](https://docs.google.com/document/d/1RxQ2RRDnRac60MnZEFUkenbNvyHG9sMv2IrVajtRIm4/edit?usp=sharing) |
 [Session 11](https://docs.google.com/document/d/1A9YpgJVa1AuSIRCjOW6QvdEBZzmB9HQKgPrANSsz1H8/edit?usp=sharing) |
 [Session 12](https://docs.google.com/document/d/15wrZuqa7j2YOOT6YRqwCj33IcIvYrCHktiOIP0SI_P8/edit?usp=sharing) |
