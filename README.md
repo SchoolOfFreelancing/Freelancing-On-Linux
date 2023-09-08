@@ -33,7 +33,7 @@ Training Modules: Advanced modules tailored for start Linux freelancing
 
 Target Marketplace: Fiverr | Upwork | Guru.com | Freelancer.com | PPH
 
-## The Session
+## Training Pipeline
 [Session 1](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
 [Session 2](https://docs.google.com/document/d/13iPvZZvilKKCK0To08sWtHG2O1IZgIOpVZP-erq8UR0/edit?usp=sharing) |
 [Session 3](https://docs.google.com/document/d/1Kk92VyZVxz9zrBzhluFVAceUDpKaYLnVV40WmMZvh7M/edit?usp=sharing) | 
