@@ -15,13 +15,21 @@ We'll give you guaranteed minimum income (GMI) based on two conditions:
 
 
 📢 Training Highlights
+
 📢 Focus: Linux System Administration
+
 📢 Output: successful Participant can earn by doing freelancing from home
+
 📢 Training Duration: 180 hours over six months
+
 📢 Training Time: 10:00 PM (22:00) - 12:00 AM (24:00) GMT+6 [Business Days]
+
 📢 Participation Fee: $300
+
 📢 Mentor: Verified Freelancer M01606319624 @ freelancers.gov.bd
+
 📢 Training Modules: Advanced modules tailored for start Linux freelancing
+
 📢 Target Marketplace: Fiverr | Upwork | Guru.com | Freelancer.com | PPH
 
 ## Training Pipeline
