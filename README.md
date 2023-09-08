@@ -57,9 +57,9 @@ Before join this training please check all training sessions are align and neces
 [Session 17](https://docs.google.com/document/d/1qhr9CE262__1SWRIE6l3kIbiOSIU2QyGjCYjU85rLiQ/edit?usp=sharing) |
 [Session 18](https://docs.google.com/document/d/1TOfdEsGbqxzrzRc9gchotJZE0ejshFNR41QmR3iSETY/edit?usp=sharing) |
 [Session 19](https://docs.google.com/document/d/1M0-EQnZDd7fVZIWDfzL_BGkTr5lrHIHcTOzTZ458bf8/edit?usp=sharing) |
+[Session 20](https://docs.google.com/document/d/1IPgWvP10jpPyLa06olLULmmI7A0NOMnNnsODDETpx7k/edit?usp=sharing) |
 
-| [Session 20](https://docs.google.com/document/d/1IPgWvP10jpPyLa06olLULmmI7A0NOMnNnsODDETpx7k/edit?usp=sharing) |
-[Session 21](https://docs.google.com/document/d/1zKDerKzduabg4_zI88HcMxsWd_qwmiHkmFjHsmitEXo/edit?usp=sharing) |
+| [Session 21](https://docs.google.com/document/d/1zKDerKzduabg4_zI88HcMxsWd_qwmiHkmFjHsmitEXo/edit?usp=sharing) |
 [Session 22](https://docs.google.com/document/d/1hTaQSo6MWSDQDwTLitAXc3z9TpZvC_EVnCqMeCh5w8M/edit?usp=sharing) |
 [Session 23](https://docs.google.com/document/d/1BerFJvhUNjZTWZ1SkeicG28U34u-cDQKEr-uab7qJGc/edit?usp=sharing) |
 [Session 24](https://docs.google.com/document/d/1E8MozrUWp6YzHvsozv7foVX2SjK-0q6janYdmyActdM/edit?usp=sharing) |
@@ -68,9 +68,9 @@ Before join this training please check all training sessions are align and neces
 [Session 27](https://docs.google.com/document/d/19J49vklobxM3ITNyiag-vWpkzNcpVZQ--RgG6V4lLHk/edit?usp=sharing) |
 [Session 28](https://docs.google.com/document/d/1kJC9AHz8h3U-4q7Z3ezFFmDMhbtVr9f-DK0INrgU0Nw/edit?usp=sharing) |
 [Session 29](https://docs.google.com/document/d/1YkK40WR5AGZkhyLpvrUKh-K6zwEz7cU8AjAiMmVoGho/edit?usp=sharing) |
+[Session 30](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
 
-| [Session 30](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
-[Session 31](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+| [Session 31](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
 [Session 32](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
 [Session 33](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
 [Session 34](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
@@ -79,9 +79,9 @@ Before join this training please check all training sessions are align and neces
 [Session 37](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
 [Session 38](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
 [Session 39](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+[Session 40](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
 
-| [Session 40](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
-[Session 41](https://docs.google.com/document/d/1V0OkBO9XWV4-hN9Q-XtsYSxKjC__SNkpPcFXgKnBdMM/edit?usp=sharing) |
+| [Session 41](https://docs.google.com/document/d/1V0OkBO9XWV4-hN9Q-XtsYSxKjC__SNkpPcFXgKnBdMM/edit?usp=sharing) |
 [Session 42](https://docs.google.com/document/d/1dJGjdk3p1eVF7KXe6oiWzeNJDD64gKCK0RfnJ4gI3Qs/edit?usp=sharing) |
 [Session 43](https://docs.google.com/document/d/18sQR2-JsWdxo5XreFbAkoxrmKuflq8VmmutNhe-ewAo/edit?usp=sharing) |
 [Session 44](https://docs.google.com/document/d/1lQbPCB9GXFLqoQTSOURuHV_bV76QWmxBxUJMEg6zHW0/edit?usp=sharing) |
@@ -90,9 +90,9 @@ Before join this training please check all training sessions are align and neces
 [Session 47](https://docs.google.com/document/d/12f4jPqZuwxZ_Ka2G06bE0EhKyQssKKenuWp-upeGRbA/edit?usp=sharing) |
 [Session 48](https://docs.google.com/document/d/1R8ZspSfmLFrGkQqyFzIsQ3RJ5FeLntwWrtIYxO_fdUI/edit?usp=sharing) |
 [Session 49](https://docs.google.com/document/d/1KtPAw7T32gH3O2G-joRxhzWtZhtHauLpX8WVfrPFk1g/edit?usp=sharing) |
+[Session 50](https://docs.google.com/document/d/1V-F6J_VGxj_TIHuxCCVFuiow7rY5hGRMxHGMiVI24sE/edit?usp=sharing) |
 
-| [Session 50](https://docs.google.com/document/d/1V-F6J_VGxj_TIHuxCCVFuiow7rY5hGRMxHGMiVI24sE/edit?usp=sharing) |
-[Session 51](https://docs.google.com/document/d/1RR776TIxnEvK2G7f_H68mGxOsuLrxxWsIfuePKHjd30/edit?usp=sharing) |
+| [Session 51](https://docs.google.com/document/d/1RR776TIxnEvK2G7f_H68mGxOsuLrxxWsIfuePKHjd30/edit?usp=sharing) |
 [Session 52](https://docs.google.com/document/d/1dzIeC3d05buSzMB_HIjS8J6cYx7EQz3Nd5aJnSAskSU/edit?usp=sharing) |
 [Session 53](https://docs.google.com/document/d/1WMXYVJ7S6b131GYYKFwZlS6mXDpFM0ln_wpCrJcHkr8/edit?usp=sharing) |
 [Session 54](https://docs.google.com/document/d/1v8KUnAoE_dLSDGhm4cqNrZgvxMZcz2224Bmpqckl3Gc/edit?usp=sharing) |
