@@ -16,7 +16,7 @@ We'll give you guaranteed minimum income (GMI) based on two conditions:
 
 ## Beauty Of This Training
 
-📢 Focus: Linux System Administration
+📢 Focus: Linux System Administration ()
 
 📢 Output: successful Participant can earn by doing freelancing from home
 
@@ -33,6 +33,8 @@ We'll give you guaranteed minimum income (GMI) based on two conditions:
 📢 Target Marketplace: Fiverr | Upwork | Guru.com | Freelancer.com | PPH
 
 📢 Track Training Task: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
+
+📢 Immediate assistance: Yes if you get any client during training period
 
 ### Instant support if you get any client and you need help beside training period
 
