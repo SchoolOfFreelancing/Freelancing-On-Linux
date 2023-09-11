@@ -5,7 +5,7 @@
 ## Freelancing On Linux🐧
 ## Learn Linux and start your freelance career
 
-Here Individuals achieve success as freelancers with our flexible and affordable Linux system administration training🐧
+Here Individuals achieve success as freelancers with our flexible and affordable Linux system administration training.
 
 If you are looking for success on the most prominent freelance marketplaces? Join this training! 
 
