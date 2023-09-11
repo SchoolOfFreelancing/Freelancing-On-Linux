@@ -18,7 +18,9 @@ We'll give you **guaranteed minimum income (GMI)** based on two conditions:
 
 ## Beauty Of This Training
 
-📢 Focus: Linux System Administration ()
+📢 Focus: Linux System Administration 
+
+📢 Level: Advanced Level 
 
 📢 Output: successful Participant can earn by doing freelancing from home
 
@@ -41,21 +43,21 @@ We'll give you **guaranteed minimum income (GMI)** based on two conditions:
 ### Instant support if you get any client and you need help beside training period
 
 ## Training Prerequisite
-🏋️ Need To Have Three To Five Years Computer Using Experience.
+🏋️ Minimum one year of computer usage skills required.
 
-🚴 Need To Have Willingness, Patience And Concentrations For Participate This Training.
+👓 Must be able to read, understand, and type English fluently.
 
-🖥 Need To Have Your Own Laptop/Desktop PC With 200gb Ssd And 8gb Ram (16gb/500gb Recommended).
+🚴 Willingness, patience, and concentration are essential for participating during training.
 
-🕸 Need To Have 24 Hours High Speed Optical Fiber Wired Dedicated Personal Internet Access & Electric.
+🖥 Own laptop/desktop PC with a minimum of 200GB SSD and 8GB RAM (16GB/500GB recommended).
 
-🆔 Need To Have Government Issued Photo Id (Passport, Nid Or Driving License).
+🕸 Required: 24/7 High-Speed Optical Fiber Wired Internet Access and Reliable Electric. 
 
-📱 Need To Have Portable Devices For Instant Client Communications.
+🆔 Required: Government-Issued Photo ID (Passport, National ID, or Driver's License).
 
-👓 Need To Have The Capability To Read And Understand English Including Good Typing Skills.
+📱 Required: Portable Devices for Instant Client Communication.
 
-Before join this training please check all training sessions are align and necessary for level up your skills and you are happy to enroll this training from home 🏠
+Before enrolling, please ensure this training modules are aligned for level up your freelancing skill and you are ready to enroll this training from home 🏠
 
 ## Training Pipeline
 [Session 01](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
