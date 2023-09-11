@@ -38,7 +38,7 @@ We'll give you **guaranteed minimum income (GMI)** based on two conditions:
 
 📢 Immediate assistance: Yes if you get any client during training period
 
-### Instant support if you get any client and you need help beside training period
+📢 Instant support if you get any client and you need help during training period
 
 ## Training Prerequisite
 🏋️ Minimum one year of computer usage skills required.
