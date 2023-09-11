@@ -153,7 +153,7 @@ Before enrolling, please ensure this training modules are aligned for level up y
 
 We recommend trainee to focus on learning rather than earning till trainee completed session 85. Earning request from any trainee will be fulfill at session 86. Session-1 to 6 related with account setup for linux freelancing. Session-7 to 85 are ubuntu linux based hands-on training 🚀
 
-Getting a 5-star feedback rating using any one marketplace and 100% training complete at [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) will marked this training completed by trainee. Mentor will help trainee for complete first job not all others jobs during this training!
+Trainees are required to achieve a 5-star feedback rating on any one marketplace and achieve 100% training completion on [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) to mark their training as complete. Our mentors will assist trainees in completing their first job but not subsequent ones during this training 🚀
 
 ## Copyright and License 
 [School Of Freelancing](https://www.schooloffreelancing.com/) 
