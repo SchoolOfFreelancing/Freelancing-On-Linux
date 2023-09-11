@@ -34,6 +34,8 @@ We'll give you guaranteed minimum income (GMI) based on two conditions:
 
 📢 Track Training Task: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
 
+### Instant support if you get any client and you need help beside training period
+
 ## Training Prerequisite
 🏋️ Need To Have Three To Five Years Computer Using Experience.
 
