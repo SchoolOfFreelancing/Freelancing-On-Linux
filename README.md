@@ -20,7 +20,7 @@ We'll give you **guaranteed minimum income (GMI)** based on two conditions:
 
 📢 Level: Advanced Level 
 
-📢 Output: successful Participant can earn by doing freelancing from home
+📢 Output: Successful Participant Can Earn By Doing Freelancing From Home
 
 📢 Training Duration: 180 hours over six months
 
