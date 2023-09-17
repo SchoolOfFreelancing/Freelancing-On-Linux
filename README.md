@@ -46,7 +46,7 @@ We'll give you **guaranteed minimum income (GMI)** based on two conditions:
 
 🚴 Willingness, patience, and concentration are essential for participating during training.
 
-🖥 Own laptop/desktop PC with a minimum of 200GB SSD and 8GB RAM (16GB/500GB recommended).
+🖥 Own Clone Desktop PC with a minimum of 300GB SSD and 16GB RAM (32GB/500GB recommended).
 
 🕸 Required: 24/7 High-Speed Optical Fiber Wired Internet Access and Reliable Electric. 
 
