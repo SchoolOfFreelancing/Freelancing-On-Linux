@@ -31,8 +31,8 @@ We'll give you **guaranteed minimum income (GMI)** based on two conditions:
 
 📢 Mentor: Verified Freelancer M01606319624 @ freelancers.gov.bd
 
-📢 Training Modules: Advanced modules tailored for start freelancing based on [Linux System Administration](https://www.glassdoor.com/Salaries/linux-systems-administrator-salary-SRCH_KO0,27.htm)
-
+📢 Training Modules: Advanced modules tailored for start [Linux System Administration](https://www.glassdoor.com/Salaries/linux-systems-administrator-salary-SRCH_KO0,27.htm) freelancing
+ 
 📢 Target Marketplace: Fiverr | Upwork | Guru.com | Freelancer.com | PPH
 
 📢 Track Training Task: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
