@@ -56,7 +56,7 @@ This training ensure trainees **GUARANTEED MINIMUM INCOME (GMI)** based on two c
 
 Before enrolling, please ensure this training modules are aligned for level up your freelancing skill and you are ready to enroll this training from home 🏠
 
-[Pay via Wise](https://wise.com/pay/r/1PaCPbBUeYndEs0) [Pay Via bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt31000/mT8noZ)
+[Pay via Wise](https://wise.com/pay/r/1PaCPbBUeYndEs0) | [bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt31000/mT8noZ)
 
 ## Training Pipeline
 [Session 01](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
