@@ -4,13 +4,13 @@
 
 ## Freelancing On Linux🐧
 ## Learn Linux and start your freelance career
-## GUARANTEED MINIMUM INCOME (GMI) BASED ON TWO CONDITIONS
+## Guaranteed Minimum Income (GMI) Based On Two Conditions
 
 Here Individuals achieve success as freelancers with our flexible and affordable Linux system administration training.
 
 If you are looking for success on the most prominent freelance marketplaces? Join this training! 
 
-We'll give you **guaranteed minimum income (GMI)** based on two conditions:
+We'll give you **GUARANTEED MINIMUM INCOME (GMI)** based on two conditions:
 1) You're committed to attending all training sessions consistently without being absent!
 2) You'll not drop out from training for any personal issue or any technical glitches.
 
