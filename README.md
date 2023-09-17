@@ -154,5 +154,5 @@ We recommend trainee to focus on learning rather than earning till trainee compl
 
 Trainees are required to achieve a 5-star feedback rating on any one marketplace and achieve 100% training completion on [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) to mark their training as complete. Our mentors will assist trainees in completing their first job but not subsequent ones during this training 🚀
 
-## Contact Now
+## Contact Human
 [Telegram](https://t.me/SchoolOfFreelancingTraining) 
