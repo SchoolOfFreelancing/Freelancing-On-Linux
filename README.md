@@ -37,6 +37,8 @@ This training ensure trainees **GUARANTEED MINIMUM INCOME (GMI)** based on two c
 
 📢 Track Training Task: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
 
+📢 Phase: Deevelopment (localhost). For Production session setup DigitalOcean and domain require.
+
 📢 Immediate assistance: Yes if you get any client during training period
 
 ## Training Prerequisite
