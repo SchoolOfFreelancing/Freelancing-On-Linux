@@ -33,7 +33,7 @@ This training ensure trainees **GUARANTEED MINIMUM INCOME (GMI)** based on two c
 
 📢 Training Modules: Advanced modules tailored for start [Linux System Administration](https://www.glassdoor.com/Salaries/linux-systems-administrator-salary-SRCH_KO0,27.htm) freelancing
  
-📢 Target Marketplace: Fiverr | Upwork | Guru.com | Freelancer.com
+📢 Target Marketplace: Upwork | Guru.com | Freelancer.com
 
 📢 Track Training Task: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
 
