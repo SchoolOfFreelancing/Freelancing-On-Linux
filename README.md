@@ -35,7 +35,7 @@ This training ensure trainees **GUARANTEED MINIMUM INCOME (GMI)** based on two c
  
 📢 Target Marketplace: [Upwork](https://www.upwork.com/) | [Guru.com](https://www.guru.com/) | [Freelancer.com](https://www.freelancer.com/)
 
-📢 Track Training Task: [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
+📢 Track Trainee : [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
 
 📢 Phase: Deevelopment (localhost). For Production session setup DigitalOcean and domain require.
 
