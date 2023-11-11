@@ -3,7 +3,7 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main)
 
 ## Freelancing On Linux🐧
-## Learn Linux and start your freelance career
+## Learn Linux & Start Your Freelance Career
 ## Guaranteed Minimum Income (GMI) Based On Two Conditions
 
 Here Individuals achieve success as freelancers with our flexible and affordable Linux system administration training.
