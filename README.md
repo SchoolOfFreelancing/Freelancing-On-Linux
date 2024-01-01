@@ -90,10 +90,10 @@ Before enrolling, please ensure this training modules are aligned for level up y
 [Session 27](https://docs.google.com/document/d/19J49vklobxM3ITNyiag-vWpkzNcpVZQ--RgG6V4lLHk/edit?usp=sharing) |
 [Session 28](https://docs.google.com/document/d/1kJC9AHz8h3U-4q7Z3ezFFmDMhbtVr9f-DK0INrgU0Nw/edit?usp=sharing) |
 [Session 29](https://docs.google.com/document/d/1YkK40WR5AGZkhyLpvrUKh-K6zwEz7cU8AjAiMmVoGho/edit?usp=sharing) |
-[Session 30](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
-[Session 31](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
-[Session 32](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
-[Session 33](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
+[Session 30](https://docs.google.com/document/d/1RLgm0bXpuYGctXw6ceC4fvgr7mBhRVj0AquwhWNhxLE/edit?usp=sharing) |
+[Session 31](https://docs.google.com/document/d/1frq_8LVLuJqwT4O5MzeMpuaPKx2NDTAT65sJrvje6iI/edit?usp=sharing) |
+[Session 32](https://docs.google.com/document/d/13Beb2WhCJkCB7JHi37830dWvuTT1-aSaiMGz5nvwctM/edit?usp=sharing) |
+[Session 33](https://docs.google.com/document/d/19OzGrJbEFiRyZ-ULDRc343vjZv3T6qovLMUDPWg1WyQ/edit?usp=sharing) |
 [Session 34](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
 [Session 35](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
 [Session 36](https://docs.google.com/document/d/1Gd825MRnMcu9WToQcLVP0eXsCpimF5c4BdYbZpN24A8/edit?usp=sharing) |
