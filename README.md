@@ -19,21 +19,19 @@ This training ensure trainees **GUARANTEED MINIMUM INCOME (GMI)** based on two c
 
 📢 Focus: Linux System Administration 
 
-📢 Level: Advanced Level 
-
-📢 Output: Successful Participant Can Earn By Doing Freelancing From Home
+📢 Output: Successful Participant Can Earn By Doing Linux Freelancing From Home
 
 📢 Training Duration: 180 hours over six months
 
 📢 Training Time: 10:00 PM (22:00) - 12:00 AM (24:00) GMT+6 [Business Days]
 
-📢 Participation Fee: 300 USD (Fixed Price) 
+📢 Participation Fee: Foreign trainees 300 USD / BDT 31000 for Bangladeshi trainees.
 
 📢 Mentor: Verified Freelancer M01606319624 @ freelancers.gov.bd
 
 📢 Training Modules: Advanced modules tailored for start [Linux System Administration](https://www.glassdoor.com/Salaries/linux-systems-administrator-salary-SRCH_KO0,27.htm) freelancing
  
-📢 Target Marketplace: [Upwork](https://www.upwork.com/) | [Guru.com](https://www.guru.com/) | [Freelancer.com](https://www.freelancer.com/)
+📢 Target Marketplace: [Upwork](https://www.upwork.com/) | [Guru.com](https://www.guru.com/) | [Freelancer.com](https://www.freelancer.com/) [Fiverr](https://www.fiverr.com/)
 
 📢 Track Trainee : [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
 
@@ -152,7 +150,8 @@ Before enrolling, please ensure this training modules are aligned for level up y
 [Session 89](https://docs.google.com/document/d/1Odd0vGlzsbvofGBQAuPaWqYHAQ93_uBx1jtWGfgeTbI/edit?usp=sharing) |
 [Session 90](https://docs.google.com/document/d/1-s46iGGrjwTVECCoF-6sgV8sobj_Ql1Aj5_h2VziSl0/edit?usp=sharing) |
 
-We recommend trainee to focus on learning rather than earning till trainee completed session 85. Earning request from any trainee will be fulfill at session 86. Session-1 to 6 related with account setup for linux freelancing. Session-7 to 85 are ubuntu linux based hands-on training 🚀
+We recommend trainee to focus on learning rather than earning till trainee completed session 85. Earning request from any trainee will be fulfill at session 89. Session-1 to 6 related with account setup for linux freelancing. 
+Session-7 to 85 are ubuntu linux based hands-on training 🚀
 
 Trainees are required to achieve a 5-star feedback rating on any one marketplace and achieve 100% training completion on [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) to mark their training as complete. Our mentors will assist trainees in completing their first job but not subsequent ones during this training 🚀
 
