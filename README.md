@@ -42,7 +42,7 @@ This training ensure trainees **GUARANTEED MINIMUM INCOME (GMI)** based on two c
 ## Training Prerequisite
 🏋️ Minimum one year of experience with computer usage is necessary.
 
-👓 Must be able to read, understand, and type English fluently.
+👓 Proficiency in spoken and written English, along with a strong typing speed, is a requirement.
 
 🚴 Willingness, patience, and concentration are essential for participating during training.
 
