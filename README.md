@@ -40,7 +40,7 @@ This training ensure trainees **GUARANTEED MINIMUM INCOME (GMI)** based on two c
 📢 Immediate assistance: Yes if you get any client during training period
 
 ## Training Prerequisite
-🏋️ Minimum one year of computer usage skills required.
+🏋️ Minimum one year of experience with computer usage is necessary.
 
 👓 Must be able to read, understand, and type English fluently.
 
