@@ -35,9 +35,9 @@ This training ensure trainees **GUARANTEED MINIMUM INCOME (GMI)** based on two c
 
 📢 Track Trainee : [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
 
-📢 Phase: Deevelopment (localhost). For Production session setup DigitalOcean and domain require.
+📢 Phase: Deevelopment (localhost) training. For Production training [DigitalOcean](https://try.digitalocean.com/freetrialoffer/) and any domain require.
 
-📢 Immediate assistance: Yes if you get any client during training period
+📢 Immediate assistance: Yes, If your mentor not sleeping you will get immediate assistance when any client knock you during training. 
 
 ## Training Prerequisite
 🏋️ Minimum one year of experience with computer usage is necessary.
