@@ -155,7 +155,7 @@ Session-7 to 85 are ubuntu linux based hands-on training 🚀
 Trainees are required to achieve a 5-star feedback rating on any one marketplace and achieve 100% training completion on [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) to mark their training as complete. Our mentors will assist trainees in completing their first job but not subsequent ones during this training 🚀
 
 ## YouTube Video:
-[![SchoolOfFreelancing]](https://youtu.be/bbJCBn_vUzs?si=iCIYZ38dmlSLQWRs "Promotion")
+[SchoolOfFreelancing](https://youtu.be/bbJCBn_vUzs?si=iCIYZ38dmlSLQWRs "Promotion")
 
 ## Contact Mentor
 [Telegram](https://t.me/SchoolOfFreelancingTraining) 
