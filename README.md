@@ -30,7 +30,7 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 
 📢 Training Modules: Advanced modules tailored for start [Linux System Administration](https://www.glassdoor.com/Salaries/linux-systems-administrator-salary-SRCH_KO0,27.htm) freelancing
  
-📢 Target Marketplace: [Upwork](https://www.upwork.com/) | [Guru.com](https://www.guru.com/) | [Freelancer.com](https://www.freelancer.com/) [Fiverr](https://www.fiverr.com/)
+📢 Target Marketplace: [Upwork](https://www.upwork.com/) | [Guru.com](https://www.guru.com/) | [Freelancer.com](https://www.freelancer.com/) 
 
 📢 Track Trainee : [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
 
