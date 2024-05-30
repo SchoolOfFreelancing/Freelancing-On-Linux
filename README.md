@@ -55,7 +55,7 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 
 Before enrolling, please ensure this training modules are aligned for level up your freelancing skill and you are ready to enroll this training from home 🏠
 
-[Pay via PayPal](https://paypal.me/webmasum?country.x=CY&locale.x=en_US) | [Pay via Wise](https://wise.com/pay/r/1PaCPbBUeYndEs0) | [bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt31000/mT8noZ)
+[Pay via PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt31000/mT8noZ)
 
 ## Training Pipeline
 [Session 01](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
