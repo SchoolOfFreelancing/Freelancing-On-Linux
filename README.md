@@ -36,7 +36,7 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 
 📢 Phase: Development (localhost) training. For Production training [DigitalOcean](https://try.digitalocean.com/freetrialoffer/) and any domain require.
 
-📢 Immediate assistance: Yes, If your mentor not sleeping you will get immediate assistance when any client knock you during training. 
+📢 Immediate assistance: Yes, Prompt assistance is available from your mentor whenever you receive a client inquiry during training.
 
 ## Training Prerequisite
 🏋️ Minimum one year of experience with computer usage is necessary.
