@@ -11,7 +11,7 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 
 ## Guaranteed Minimum Income (GMI) Based On Two Conditions
 1) You need to purchase the necessary bids/connects on the freelance marketplace to apply for jobs.
-2) You are committed to attending all training sessions regularly without any absences and will not drop out of training due to personal issues or technical glitches.
+2) Committed to attending all training sessions without any absences and don't leave training due to personal issue or any technical glitches.
 
 ## Features 
 
