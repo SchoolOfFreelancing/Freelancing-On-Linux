@@ -10,10 +10,8 @@ Here Individuals achieve success as freelancers with our flexible and affordable
 If you are looking for success on the most prominent freelance marketplaces? [Join this training](https://forms.gle/hkyz9uR2Z8WVPUPH7) 🚀
 
 ## Guaranteed Minimum Income (GMI) Based On Two Conditions
-1) You are committed to attending all training sessions regularly without any absences and will not drop out of training due to personal issues or technical glitches.
-2) You need to purchase the necessary bids/connects on the freelance marketplace to apply for jobs.
-
-
+1) You need to purchase the necessary bids/connects on the freelance marketplace to apply for jobs.
+2) You are committed to attending all training sessions regularly without any absences and will not drop out of training due to personal issues or technical glitches.
 
 ## Features 
 
