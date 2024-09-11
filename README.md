@@ -16,7 +16,6 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 # Details
 📢 Training: Freelancing on Linux
 🔍 Format: Hands-on, Practical Training
-📢 Output: Successful Participant Can Earn By Doing Linux Freelancing From Home
 📅 Duration: 180 hours over six months
 💰 Fee: $500
 🎯 Target Marketplace: Guru, Freelancer, Upwork
