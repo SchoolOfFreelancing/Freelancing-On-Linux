@@ -13,12 +13,12 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 1) You need to purchase the necessary bids/connects on the freelance marketplace to apply jobs.
 2) Need to attend all training regularly and don't leave training due to personal issue or any technical glitches.
 
-# Details
-📢 Training: Freelancing on Linux
-🔍 Format: Hands-on, Practical Training
-📅 Duration: 180 hours over six months
-💰 Fee: $500
-🎯 Target Marketplace: Guru, Freelancer, Upwork
+## Details
+- Training: Freelancing on Linux
+- Format: Hands-on, Practical Training
+- Duration: 180 hours over six months
+- Fee: $500
+- Target Marketplace: Guru, Freelancer, Upwork
 
 ## Training Prerequisite
 🏋️ Minimum one year of experience with computer usage is necessary.
