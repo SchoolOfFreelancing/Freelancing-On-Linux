@@ -5,7 +5,7 @@
 ## Freelancing On Linux🐧
 ## Become a Top-Earning Freelance Linux Systems Administrator
 
-## Let's Build Your Successful Freelance Career in Linux System Administration Together!
+Let's Build Your Successful Freelance Career in Linux System Administration Together!
 
 If you are looking for success on the most prominent freelance marketplaces? [Join this training](https://forms.gle/hkyz9uR2Z8WVPUPH7) 🚀
 
