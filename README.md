@@ -3,9 +3,9 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main)
 
 ## Freelancing On Linux🐧
-## Learn Linux & Start Your Freelance Career
+## Become a Top-Earning Freelance Linux Systems Administrator
 
-Here Individuals achieve success as freelancers with our flexible and affordable Linux system administration training.
+Let's Build Your Successful Freelance Career in Linux System Administration Together!
 
 If you are looking for success on the most prominent freelance marketplaces? [Join this training](https://forms.gle/hkyz9uR2Z8WVPUPH7) 🚀
 
@@ -13,28 +13,16 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 1) You need to purchase the necessary bids/connects on the freelance marketplace to apply jobs.
 2) Need to attend all training regularly and don't leave training due to personal issue or any technical glitches.
 
-## Features 
+## Training Details:
 
-📢 Focus: Linux System Administration 
-
+📢 Training: Freelancing on Linux
+🔍 Format: Hands-on, Practical Training
 📢 Output: Successful Participant Can Earn By Doing Linux Freelancing From Home
-
-📢 Training Duration: 180 hours over six months
-
-📢 Training Time: 10:00 PM (22:00) - 12:00 AM (24:00) GMT+6 [Business Days]
-
-📢 Participation Fee: 500 USD
-
+📅 Duration: 180 hours over six months
+💰 Fee: $500
+🎯 Target Marketplace: Guru, Freelancer, Upwork
 📢 Mentor: Verified Freelancer M01606319624 @ freelancers.gov.bd
-
-📢 Training Modules: Advanced modules tailored for start [Linux System Administration](https://www.glassdoor.com/Salaries/linux-systems-administrator-salary-SRCH_KO0,27.htm) freelancing
- 
-📢 Target Marketplace: [Upwork](https://www.upwork.com/) | [Guru.com](https://www.guru.com/) | [Freelancer.com](https://www.freelancer.com/) 
-
-📢 Track Trainee : [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing)
-
 📢 Phase: Development (localhost) training. For Production training [DigitalOcean](https://try.digitalocean.com/freetrialoffer/) and any domain require.
-
 📢 Immediate assistance: Yes, Prompt assistance is available from your mentor whenever you receive a client inquiry during training.
 
 ## Training Prerequisite
