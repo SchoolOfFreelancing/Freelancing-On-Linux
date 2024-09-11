@@ -25,7 +25,7 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 
 🖥 A powerful desktop computer is needed with at least 300GB SSD and 16GB RAM (32GB/500GB preferred). Reliable fiber internet, stable power, a valid government-issued ID, and portable devices for instant communication are essential.
 
-Before enrolling, please ensure this training modules are aligned for level up your freelancing skill and you are ready to enroll this training from home 🏠
+Before enrolling, please confirm that this training pipeline is aligns with your freelancing goals and you are ready to enroll training remotely 🏠
 
 ## Training Pipeline
 [Session 01](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
