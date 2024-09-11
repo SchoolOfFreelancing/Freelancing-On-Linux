@@ -21,9 +21,6 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 📅 Duration: 180 hours over six months
 💰 Fee: $500
 🎯 Target Marketplace: Guru, Freelancer, Upwork
-📢 Mentor: Verified Freelancer M01606319624 @ freelancers.gov.bd
-📢 Phase: Development (localhost) training. For Production training [DigitalOcean](https://try.digitalocean.com/freetrialoffer/) and any domain require.
-📢 Immediate assistance: Yes, Prompt assistance is available from your mentor whenever you receive a client inquiry during training.
 
 ## Training Prerequisite
 🏋️ Minimum one year of experience with computer usage is necessary.
