@@ -21,19 +21,9 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 - Target Marketplace: Guru, Freelancer, Upwork
 
 ## Training Prerequisite
-🏋️ Minimum one year of experience with computer usage is necessary.
+🏋️ Candidates need at least one year of computer experience, strong English skills, and fast typing. Dedication, patience, and focus are essential for training.
 
-👓 Proficiency in spoken and written English, along with a strong typing speed, is a requirement.
-
-🚴 Willingness, patience, and concentration are essential for participating during training.
-
-🖥 Own Clone Desktop PC with a minimum of 300GB SSD and 16GB RAM (32GB/500GB recommended).
-
-🕸 Required: 24/7 High-Speed Optical Fiber Wired Internet Access and Reliable Electric. 
-
-🆔 Required: Government-Issued Photo ID (Passport, National ID, or Driver's License).
-
-📱 Required: Portable Devices for Instant Client Communication.
+🖥 A powerful desktop computer is needed with at least 300GB SSD and 16GB RAM (32GB/500GB preferred). Reliable fiber internet, stable power, a valid government-issued ID, and portable devices for instant communication are essential.
 
 Before enrolling, please ensure this training modules are aligned for level up your freelancing skill and you are ready to enroll this training from home 🏠
 
