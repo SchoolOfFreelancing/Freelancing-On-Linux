@@ -13,7 +13,7 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 1) You need to purchase the necessary bids/connects on the freelance marketplace to apply jobs.
 2) Need to attend all training regularly and don't leave training due to personal issue or any technical glitches.
 
-## Training Details
+## Details
 📢 Training: Freelancing on Linux
 🔍 Format: Hands-on, Practical Training
 📢 Output: Successful Participant Can Earn By Doing Linux Freelancing From Home
