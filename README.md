@@ -27,8 +27,6 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 
 Before enrolling, please ensure this training modules are aligned for level up your freelancing skill and you are ready to enroll this training from home 🏠
 
-Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt31000/mT8noZ) | [Wise](https://www.wise.com/) 
-
 ## Training Pipeline
 [Session 01](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
 [Session 02](https://docs.google.com/document/d/13iPvZZvilKKCK0To08sWtHG2O1IZgIOpVZP-erq8UR0/edit?usp=sharing) |
@@ -121,8 +119,7 @@ Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](h
 [Session 89](https://docs.google.com/document/d/1Odd0vGlzsbvofGBQAuPaWqYHAQ93_uBx1jtWGfgeTbI/edit?usp=sharing) |
 [Session 90](https://docs.google.com/document/d/1-s46iGGrjwTVECCoF-6sgV8sobj_Ql1Aj5_h2VziSl0/edit?usp=sharing) |
 
-We recommend trainee to focus on learning rather than earning till trainee completed session 85. Earning request from any trainee will be fulfill at session 89. Session-1 to 6 related with account setup for linux freelancing. 
-Session-7 to 85 are ubuntu linux based hands-on training 🚀
+Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt31000/mT8noZ) | [Wise](https://www.wise.com/) 
 
 Trainees are required to achieve a 5-star feedback rating on any one marketplace and achieve 100% training completion on [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) to mark their training as complete. Our mentors will assist trainees in completing their first job but not subsequent ones during this training 🚀
 
