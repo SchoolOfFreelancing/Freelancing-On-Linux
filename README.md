@@ -16,7 +16,7 @@
 - Target Marketplace: Guru, Freelancer, Upwork
 
 ## Training Prerequisite
-🏋️ Candidates need at least one year of computer experience, strong English skills, and fast typing. Dedication, patience, and focus are essential for training.
+🏋️ Candidates need at least two years of computer using experience, strong English skills, and fast typing. Dedication, patience, and focus are essential for training.
 
 🖥 A powerful desktop computer is needed with at least 300GB SSD and 16GB RAM (32GB/500GB preferred). Reliable fiber internet, stable power, a valid government-issued ID, and portable devices for instant communication are essential.
 
