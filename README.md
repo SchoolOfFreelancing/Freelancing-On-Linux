@@ -4,8 +4,6 @@
 ## Freelancing On Linux🐧
 ## Become a Top-Earning Freelance Linux System Administrator
 
-Level up Linux System Administration Skill
-
 ## Guaranteed Minimum Income (GMI) Based On Two Conditions
 1) You need to purchase the necessary bids/connects on the freelance marketplace to apply jobs.
 2) Need to attend all training regularly and don't leave training due to personal issue or any technical glitches.
