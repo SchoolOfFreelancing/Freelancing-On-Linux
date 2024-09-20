@@ -3,7 +3,7 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main)
 
 ## Freelancing On Linux🐧
-## Become a Top-Earning Freelance Linux Systems Administrator
+## Become a Top-Earning Freelance Linux System Administrator
 
 Let's Build Your Successful Freelance Career in Linux System Administration Together!
 
