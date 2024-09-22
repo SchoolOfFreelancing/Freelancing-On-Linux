@@ -10,7 +10,7 @@
 
 ## Training Details:
 - Training: Freelancing on Linux
-- Format: Hands-on, Practical Training using server and domain
+- Format: Hands-on, Practical Training 
 - Duration: 180 hours over six months
 - Fee: $500
 - Target Marketplace: Guru, Freelancer, Upwork
@@ -18,7 +18,7 @@
 ## Training Prerequisite
 🏋️ Candidates need at least two years of computer using experience, strong English skills, and fast typing. Dedication, patience, and focus are essential for training.
 
-🖥 A powerful desktop computer is needed with at least 300GB SSD and 16GB RAM (32GB/500GB preferred). Reliable fiber internet, stable power, a valid government-issued ID, and portable devices for instant communication are essential.
+🖥 A powerful desktop computer is needed with at least 300GB SSD and 16GB RAM (32GB/500GB preferred). Reliable fiber internet, stable power, server, domain, a valid government-issued ID, and portable devices for instant communication are essential.
 
 Before enrolling, please confirm that this training pipeline is aligns with your freelancing goals and you are ready to enroll training remotely 🏠
 
