@@ -10,7 +10,7 @@
 
 ## Training Details:
 - Training: Freelancing on Linux
-- Format: Hands-on, Practical Training
+- Format: Hands-on, Practical Training using any VPS and domain
 - Duration: 180 hours over six months
 - Fee: $500
 - Target Marketplace: Guru, Freelancer, Upwork
