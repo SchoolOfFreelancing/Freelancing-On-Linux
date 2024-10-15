@@ -127,5 +127,5 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 [Threads](https://www.threads.net/@schooloffreelancing)
 [YouTube](https://youtu.be/bbJCBn_vUzs) 
 
-## Contact Mentor
+## Gets Started
 [Telegram](https://t.me/SchoolOfFreelancingTraining)
