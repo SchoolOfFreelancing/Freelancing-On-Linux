@@ -126,6 +126,7 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 [Instagram](https://www.instagram.com/schooloffreelancing)
 [Threads](https://www.threads.net/@schooloffreelancing)
 [YouTube](https://youtu.be/bbJCBn_vUzs) 
+[PiNet Brainstorm](https://brainstorm.pinet.com/project/66eac4846833d5003cb3ba54)
 
 ## Gets Started
 [Telegram](https://t.me/SchoolOfFreelancingTraining)
