@@ -118,8 +118,6 @@ Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](h
 
 Trainees are required to achieve a 5-star feedback rating on any one marketplace and achieve 100% training completion on [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) to mark their training as complete. Our mentors will assist trainees in completing their first job but not subsequent ones during this training 🚀
 
-https://gist.github.com/user-attachments/assets/ee44880c-91ee-4996-8b6f-005bf5d97c82
-
 If you are looking for success on the most prominent freelance marketplaces? [Join this training](https://forms.gle/hkyz9uR2Z8WVPUPH7) 🚀
 
 ## Digital Presence
@@ -132,3 +130,6 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 
 ## Gets Started
 [Telegram](https://t.me/SchoolOfFreelancingTraining)
+
+# Video 
+https://gist.github.com/user-attachments/assets/ee44880c-91ee-4996-8b6f-005bf5d97c82
