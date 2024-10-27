@@ -120,6 +120,8 @@ Trainees are required to achieve a 5-star feedback rating on any one marketplace
 
 If you are looking for success on the most prominent freelance marketplaces? [Join this training](https://forms.gle/hkyz9uR2Z8WVPUPH7) 🚀
 
+https://gist.github.com/user-attachments/assets/bc2b9aa1-a223-40d1-aa90-6ec9d7f18f6a
+
 ## Digital Presence
 [LinkedIn](https://www.linkedin.com/company/school-of-freelancing)
 [Facebook](https://www.facebook.com/SchoolOfFreelancing)
