@@ -131,5 +131,5 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 ## Gets Started
 [Telegram](https://t.me/SchoolOfFreelancingTraining)
 
-# Video 
+#
 https://gist.github.com/user-attachments/assets/ee44880c-91ee-4996-8b6f-005bf5d97c82
