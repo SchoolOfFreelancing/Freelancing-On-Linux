@@ -20,7 +20,7 @@
 
 🖥 A powerful desktop computer is needed with at least 300GB SSD and 16GB RAM (32GB/500GB preferred). Reliable fiber internet with real IP, stable power, server, domain, a valid government-issued ID, and portable devices for instant communication are essential.
 
-Before enrolling, please confirm that this training pipeline is aligns with your freelancing goals and you are ready to enroll training remotely 🏠
+Before enrolling, please confirm that this training program aligns with your freelancing goals and that you're prepared for remote learning.
 
 ## Training Pipeline
 [Session 01](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
