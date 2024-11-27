@@ -129,10 +129,10 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 [PiNet Brainstorm](https://brainstorm.pinet.com/project/66eac4846833d5003cb3ba54)
 
 ## A Successful Student Profile
-[Web](https://www.rakibulinux.com/)
+[Website](https://www.rakibulinux.com/)
 [YouTube](https://www.youtube.com/@rakibulinux/videos)
-[Freelancer Profile](https://www.freelancer.com/u/rakibulinux)
-[Upwork Profile](https://www.upwork.com/freelancers/~0153f4b81fd98956f2)
+[Freelancer](https://www.freelancer.com/u/rakibulinux)
+[Upwork](https://www.upwork.com/freelancers/~0153f4b81fd98956f2)
 [GitHub](https://github.com/rakibulinux/)
 [Trello](https://trello.com/u/rakibulinux/activity)
 
