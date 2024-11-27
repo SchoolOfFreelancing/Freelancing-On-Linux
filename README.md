@@ -128,7 +128,7 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 [YouTube](https://youtu.be/bbJCBn_vUzs) 
 [PiNet Brainstorm](https://brainstorm.pinet.com/project/66eac4846833d5003cb3ba54)
 
-## A Successful Student
+## A Successful Student Profile
 [Web](https://www.rakibulinux.com/)
 [YouTube](https://www.youtube.com/@rakibulinux/videos)
 [Freelancer Profile](https://www.freelancer.com/u/rakibulinux)
