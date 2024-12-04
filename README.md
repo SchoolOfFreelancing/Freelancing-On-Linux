@@ -12,7 +12,7 @@
 - Training: Freelancing on Linux
 - Format: Hands-on, Practical Training 
 - Duration: 180 hours over six months
-- Fee: $500
+- Fee: $600 
 - Target Marketplace: Guru, Freelancer, Upwork
 
 ## Training Prerequisite
