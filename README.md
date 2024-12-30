@@ -112,7 +112,7 @@ Before enrolling, please confirm that this training program aligns with your fre
 [Session 87](https://docs.google.com/document/d/15OqgWmAY6X7eM9brkKxul9v9es27gxxsTIVhhzQUUZo/edit?usp=sharing) |
 [Session 88](https://docs.google.com/document/d/1ZdEwBOcLgHhbj4c793m9ZesQ0G7tOKn7yjNqr6C2eDs/edit?usp=sharing) |
 [Session 89](https://docs.google.com/document/d/1Odd0vGlzsbvofGBQAuPaWqYHAQ93_uBx1jtWGfgeTbI/edit?usp=sharing) |
-[Session 90](https://docs.google.com/document/d/1-s46iGGrjwTVECCoF-6sgV8sobj_Ql1Aj5_h2VziSl0/edit?usp=sharing) |
+[Session 90](https://docs.google.com/document/d/1-s46iGGrjwTVECCoF-6sgV8sobj_Ql1Aj5_h2VziSl0/edit?usp=sharing)
 
 Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt31000/mT8noZ) | [Wise](https://www.wise.com/) 
 
