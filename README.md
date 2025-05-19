@@ -4,8 +4,8 @@
 ## Linux System Administrator Hands-on Training 
 
 ## Guaranteed Minimum Income (GMI) Based On Two Conditions
-1) Attend all training regularly and don't leave training due to personal issue or any technical glitches.
-2) You need to purchase the necessary bids/connects on the freelance marketplace to apply jobs.
+1) Attend all training regularly and don't leave training due to personal issue or any technical glitches
+2) You need to purchase the necessary bids/connects on the freelance marketplace to apply jobs
 
 ## Training Details:
 - Training: Freelancing on Linux
