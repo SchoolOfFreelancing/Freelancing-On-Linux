@@ -1,12 +1,11 @@
 ![Jekyll site CI](https://github.com/SchoolOfFreelancing/BackOffice/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main)
 
-## Freelancing On Linux🐧
-## Become a Top-Earning Freelance Linux System Administrator
+## Develop Your Linux Skills To Become Linux System Administrator Freelancer
 
 ## Guaranteed Minimum Income (GMI) Based On Two Conditions
-1) You need to purchase the necessary bids/connects on the freelance marketplace to apply jobs.
-2) Need to attend all training regularly and don't leave training due to personal issue or any technical glitches.
+1) Need to attend all training regularly and don't leave training due to personal issue or any technical glitches.
+2) You need to purchase the necessary bids/connects on the freelance marketplace to apply jobs.
 
 ## Training Details:
 - Training: Freelancing on Linux
