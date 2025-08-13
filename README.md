@@ -115,7 +115,7 @@ Before enrolling, please confirm that this training program aligns with your fre
 
 Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt60000/cLNdZh) | [Wise](https://www.wise.com/) 
 
-Trainees are required to achieve a 5-star feedback rating on any one marketplace and achieve 100% training completion on [Trello](https://trello.com/b/RFo7GNdY/school-of-freelancing) to mark their training as complete. Our mentors will assist trainees in completing their first job but not subsequent ones during this training 🚀
+Trainees must complete 100% of the training and earn a 5-star feedback rating on at least one marketplace. Our mentors will assist trainees in completing their first job but not subsequent ones during this training 🚀
 
 If you are looking for success on the most prominent freelance marketplaces? [Join this training](https://forms.gle/hkyz9uR2Z8WVPUPH7) 
 
