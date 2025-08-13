@@ -1,7 +1,7 @@
 ![Jekyll site CI](https://github.com/SchoolOfFreelancing/BackOffice/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SchoolOfFreelancing/Freelancing-On-Linux/tree/main)
 
-## Linux System Administrator Hands-on Training 
+## Hands-On Linux System Administration Training for Freelancers
 
 ## Guaranteed Income Based On Two Conditions
 1) Attend all training regularly and don't leave training due to personal issue or any technical glitches
