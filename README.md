@@ -133,7 +133,6 @@ If you are looking for success on the most prominent freelance marketplaces? [Jo
 [Freelancer](https://www.freelancer.com/u/rakibulinux)
 [Upwork](https://www.upwork.com/freelancers/~0153f4b81fd98956f2)
 [GitHub](https://github.com/rakibulinux/)
-[Trello](https://trello.com/u/rakibulinux/activity)
 
 ## Gets Started
 [Telegram](https://t.me/SchoolOfFreelancingTraining)
