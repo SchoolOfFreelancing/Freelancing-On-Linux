@@ -130,5 +130,5 @@ Trainees must complete 100% of the training and earn a 5-star feedback rating on
 [GitHub](https://github.com/rakibulinux/)
 
 ## Gets Started
-- WhatsApp: https://wa.me/8801748973769
+- [WhatsApp]: (https://wa.me/8801748973769)
 - [Telegram](https://t.me/SchoolOfFreelancingTraining)
