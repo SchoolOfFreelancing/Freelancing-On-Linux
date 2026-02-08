@@ -112,7 +112,7 @@
 
 Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt60000/cLNdZh) | [Wise](https://www.wise.com/) 
 
-Trainees must complete 100% of the training and earn a 5-star feedback rating on at least one marketplace. Before enrolling, please confirm that this training program aligns with your freelancing goals and that you're prepared for remote learning. If you are looking for success on the most prominent freelance marketplace [Join this training](https://forms.gle/hkyz9uR2Z8WVPUPH7) 
+Trainees must complete 100% of the program and achieve their first income through marketplaces or direct clients. Before enrolling, ensure this training aligns with your freelancing goals and that you are prepared for remote learning. If you aim to succeed on leading freelance marketplaces, this [training](https://forms.gle/hkyz9uR2Z8WVPUPH7) is for you.
 
 ## Digital Presence
 [LinkedIn](https://www.linkedin.com/company/school-of-freelancing)
