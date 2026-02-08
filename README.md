@@ -15,7 +15,7 @@
 - Target Marketplace: Guru, Freelancer, Upwork
 
 ## System & Participation Requirements:
-An Ubuntu Desktop (24.04/26.04 LTS) PC requires a 64-bit dual-core processor (4 GHz), a minimum of 8 GB RAM (16 GB recommended), and at least 200 GB of available disk space. Participants must have a reliable fiber-optic internet connection with a real IP address or server access, a registered domain, a valid government-issued ID, and portable devices to support instant communication with clients 🚀
+An Ubuntu Desktop (24.04/26.04 LTS) PC requires a 64-bit dual-core processor (4 GHz), a minimum of 8 GB RAM (16 GB recommended), and at least 200 GB of available disk space. Participants must have a reliable fiber-optic internet connection with a real IP address or server access, a registered domain, a valid government-issued ID, and portable devices to support instant communication with clients.
 
 Before enrolling, please confirm that this training program aligns with your freelancing goals and that you're prepared for remote learning.
 
