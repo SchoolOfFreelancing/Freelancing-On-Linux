@@ -18,8 +18,6 @@
 - An Ubuntu Desktop (24.04/26.04 LTS) PC requires a 64-bit dual-core processor (4 GHz), a minimum of 8 GB RAM (16 GB recommended), and at least 200 GB of available disk space. 
 - Participants must have a reliable fiber-optic internet connection with a real IP address or server access, a registered domain, a valid government-issued ID, and portable devices to support instant communication with clients.
 
-Before enrolling, please confirm that this training program aligns with your freelancing goals and that you're prepared for remote learning.
-
 ## Training Pipeline
 [Session 01](https://docs.google.com/document/d/17XTxh_9XgJ4--37dLbIe8ZNkr416ThnypsMwPjbb_nU/edit?usp=sharing) |
 [Session 02](https://docs.google.com/document/d/13iPvZZvilKKCK0To08sWtHG2O1IZgIOpVZP-erq8UR0/edit?usp=sharing) |
@@ -114,9 +112,7 @@ Before enrolling, please confirm that this training program aligns with your fre
 
 Pay using [PayPal](https://www.paypal.com/ncp/payment/J5F7BS5QZMWGJ) | [bKash](https://shop.bkash.com/school-of-freelancing018907576/pay/bdt60000/cLNdZh) | [Wise](https://www.wise.com/) 
 
-Trainees must complete 100% of the training and earn a 5-star feedback rating on at least one marketplace. Our mentors will assist trainees in completing their first job but not subsequent ones during this training 🚀
-
-If you are looking for success on the most prominent freelance marketplaces? [Join this training](https://forms.gle/hkyz9uR2Z8WVPUPH7) 
+Trainees must complete 100% of the training and earn a 5-star feedback rating on at least one marketplace. Before enrolling, please confirm that this training program aligns with your freelancing goals and that you're prepared for remote learning. If you are looking for success on the most prominent freelance marketplaces? [Join this training](https://forms.gle/hkyz9uR2Z8WVPUPH7) 
 
 ## Digital Presence
 [LinkedIn](https://www.linkedin.com/company/school-of-freelancing)
